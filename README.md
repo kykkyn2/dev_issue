@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Mirror
 [![Join the chat at https://gitter.im/evancohen/smart-mirror](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/evancohen/smart-mirror?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Stories in Progress](https://img.shields.io/waffle/label/evancohen/smart-mirror/in%20progress.svg)] (https://waffle.io/evancohen/smart-mirror) [![Suggestions](https://img.shields.io/waffle/label/evancohen/smart-mirror/suggestion.svg?label=suggestions)]  (https://github.com/evancohen/smart-mirror/issues?q=is%3Aissue+is%3Aopen+label%3Asuggestion) [![Dependency Status](https://dependencyci.com/github/evancohen/smart-mirror/badge)](https://dependencyci.com/github/evancohen/smart-mirror)
 
@@ -28,3 +29,6 @@ MIT
 Favicon from [In the Wake of the King](http://walkingmind.evilhat.com/2014/03/17/in-the-wake-of-the-king/), a head nod to **The Watcher** – "A byblow of the king and a queen of the sea, she has remained apart from the workings of her family, more home beneath the waves, watching all through water and mirror. Her ambitions lie outside the Eternal Kingdom, but her secrets are valuable everywhere."
 
 Awesome.
+=======
+# dev_issue
+>>>>>>> e857f8d337ed9ffd6b0b8c806425e72ec71925ff
